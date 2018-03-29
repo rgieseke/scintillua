@@ -1,0 +1,5 @@
+Scintillua is built-in to the 3.x series of Scintilla as of version 3.8.0.
+As a result, this project is deprecated and will no longer be updated. Please
+note that Scintillua is not built-in to Scintilla 4.x and likely never will be,
+due to compiler constraints. (I am limited to a C++11 compiler, while Scintilla
+4.x requires a C++17 compiler.)
